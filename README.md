@@ -35,7 +35,7 @@
 - [⚙️ Modules](#modules)
 - [🚀 Getting Started](#-getting-started)
     - [🔧 Installation](#-installation)
-    - [🤖 Running ai_fitness_trainer_v3](#-running-the-app)
+    - [🤖 Running the app](#-running-the-app)
 - [🛣 Roadmap](#-roadmap)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
