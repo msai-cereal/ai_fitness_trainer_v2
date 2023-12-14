@@ -1,10 +1,13 @@
 <div align="center">
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" width="100" />
+    
+![Logo](./frontend/public/logo512.png)
+
 <br>AI Fitness Trainer</h1>
 <h3>실시간 자세 교정 AI 트레이너</h3>
 <h3>MS AI SCHOOL </h3>
-Made with ❤️ by Team Cereal
+
     
 <p align="center">
 <img src="https://img.shields.io/badge/Chart.js-FF6384.svg?style=flat&logo=chartdotjs&logoColor=white" alt="Chart.js" />
@@ -283,9 +286,11 @@ This project is protected under the [SELECT-A-LICENSE](https://choosealicense.co
 
 ## 👏 Acknowledgments
 
-- List any resources, contributors, inspiration, etc. here.
+- AI Hub의 피트니스 데이터셋을 YOLOv8 모델 학습에 사용하였습니다.
 
 [**Return**](#Top)
 
+
 ---
 
+Made with ❤️ by Team Cereal
