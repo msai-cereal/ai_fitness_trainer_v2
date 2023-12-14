@@ -75,31 +75,32 @@ AI 피트니스 트레이너는 AI와 피트니스 트레이닝 분야를 결합
 └── ai_fitness_trainer_v3/
     ├── backend/
     │   ├── main.py
+    │   ├── requirements.txt
     │   ├── s_6_best.pt
     │   └── utils/
     │       ├── condition_check.py
     │       ├── countings.py
     │       └── yolo_model.py
-    ├── frontend/
-    │   ├── .eslintrc.cjs
-    │   ├── index.html
-    │   ├── package-lock.json
-    │   ├── package.json
-    │   ├── postcss.config.js
-    │   ├── public/
-    │   ├── src/
-    │   │   ├── App.css
-    │   │   ├── App.jsx
-    │   │   ├── App.test.jsx
-    │   │   ├── components/
-    │   │   ├── index.css
-    │   │   ├── main.jsx
-    │   │   ├── reportWebVitals.jsx
-    │   │   ├── routes/
-    │   │   └── setupTests.js
-    │   ├── tailwind.config.js
-    │   └── vite.config.js
-    └── requirements.txt
+    └── frontend/
+        ├── .eslintrc.cjs
+        ├── index.html
+        ├── package-lock.json
+        ├── package.json
+        ├── postcss.config.js
+        ├── public/
+        ├── src/
+        │   ├── App.css
+        │   ├── App.jsx
+        │   ├── App.test.jsx
+        │   ├── components/
+        │   ├── index.css
+        │   ├── main.jsx
+        │   ├── reportWebVitals.jsx
+        │   ├── routes/
+        │   └── setupTests.js
+        ├── tailwind.config.js
+        └── vite.config.js
+
 
 ```
 
