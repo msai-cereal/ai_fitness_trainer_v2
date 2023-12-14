@@ -9,9 +9,9 @@ Expanding on a previous project, this application utilizes FastAPI and React to 
 
 
 
-이전 프로젝트에서 확장된 이 애플리케이션은 FastAPI와 React를 활용하여 운동 자세 평가를 위한 웹 기반 솔루션을 만들었습니다. OpenAI의 GPT와 TTS를 사용하여 Buildship을 통해 오디오 피드백을 제공했습니다. 개인화된 운동 가이드를 제공하여 사용자가 웹 상호작용을 통해 편리하게 혼자서도 운동 자세를 개선할 수 있도록 돕습니다. 
+이전 프로젝트에서 확장된 이 애플리케이션은 MS AI SCHOOL의 AI 프로젝트 일환으로 FastAPI와 React를 활용하여 운동 자세 평가를 위한 웹 기반 솔루션을 만들었습니다. OpenAI의 GPT와 TTS를 사용하여 Buildship을 통해 오디오 피드백을 제공했습니다. 개인화된 운동 가이드를 제공하여 사용자가 웹 상호작용을 통해 편리하게 혼자서도 운동 자세를 개선할 수 있도록 돕습니다. 
 
-<h3>MS AI SCHOOL </h3>
+<h3> </h3>
 
     
 <p align="center">
@@ -37,7 +37,6 @@ Expanding on a previous project, this application utilizes FastAPI and React to 
 ## 📖 Table of Contents
 - [📖 Table of Contents](#-table-of-contents)
 - [📍 Overview](#-overview)
-- [📦 Features](#-features)
 - [📂 repository Structure](#-repository-structure)
 - [⚙️ Modules](#modules)
 - [🚀 Getting Started](#-getting-started)
@@ -53,28 +52,9 @@ Expanding on a previous project, this application utilizes FastAPI and React to 
 
 ## 📍 Overview
 
-AI 피트니스 트레이너는 AI와 피트니스 트레이닝 분야를 결합하여 실시간 사용자별 운동 피드백을 제공하는 멀티모달 AI 웹 애플리케이션입니다. React로 제작된 애플리케이션 프론트엔드는 접근 가능한 사용자 인터페이스와 경로와 같은 기능을 제공하며, 전반적인 디자인은 TailwindCSS와 같은 파일을 통해 처리됩니다. Python으로 구축된 백엔드는 운동 형태를 평가하고, 반복 횟수를 계산하며, WebSocket을 통해 실시간 피드백을 제공하는 YOLO 모델과 유틸리티 스크립트를 배포합니다. 이 애플리케이션은 실시간으로 운동 자세 교정 및 맞춤형 피드백을 통해 사용자의 운동 경험을 향상시킵니다.
+AI 피트니스 트레이너는 AI와 피트니스 트레이닝 분야를 결합하여 실시간 사용자별 운동 피드백을 제공하는 멀티모달 AI 웹 애플리케이션입니다. React로 제작된 애플리케이션 프론트엔드는 사용자 친화적인 인터페이스를 제공하고 Python으로 구축된 백엔드는 운동 형태를 평가하고, 반복 횟수를 계산하며, WebSocket을 통해 실시간 피드백을 제공하는 YOLO 모델과 유틸리티 스크립트를 배포합니다. 이 애플리케이션은 실시간으로 운동 자세 교정 및 맞춤형 피드백을 통해 사용자의 운동 경험을 향상시키기 위해 시험적으로 개발되었습니다. 
 
 ---
-
-## 📦 Features
-
-|    | Feature            | Description                                                                                                        |
-|----|--------------------|--------------------------------------------------------------------------------------------------------------------|
-| ⚙️ | **Architecture**   | The architecture follows a separation of concerns; the frontend is a React app, while the backend is a Python-FastAPI app utilizing a YOLO PyTorch model.|
-| 📄 | **Documentation**  | There is no explicit documentation, which makes understanding the system hard for new developers and users. Only inline comments are provided. |
-| 🔗 | **Dependencies**   | Dependencies include Python modules like FastAPI, Pydantic, and PyTorch for backend, and frontend libraries such as React and TailwindCSS. |
-| 🧩 | **Modularity**     | The system shows modularity with its division into front and back ends. Further, the frontend and backend are divided into various logical components or modules. |
-| 🧪 | **Testing**        | Only a single file for frontend testing is present. No backend tests are provided nor CI/CD setup, reducing the reliability of the result. |
-| ⚡️  | **Performance**    | Performance is implicitly determined by the efficiency of the YOLO model and the FastAPI backend. The frontend uses web-vitals for performance measurement. |
-| 🔐 | **Security**       | No specific security measures could be identified. There are interactions over unencrypted websockets and data validation is not apparent.  |
-| 🔀 | **Version Control**| Usage of Git for version control, but there's no evidence of branch strategies or commit message principles, making code changes difficult to track.|
-| 🔌 | **Integrations**   | The system interacts with frontend via HTTP and websockets. The frontend appears to call backend exercise endpoints based on user interactions. |
-| 📶 | **Scalability**    | Scalability of the system can be hindered due to the absence of stateless backend or containerization. Frontend portion seems scalable because of React. |
-
-
----
-
 
 ## 📂 Repository Structure
 
@@ -192,16 +172,7 @@ AI 피트니스 트레이너는 AI와 피트니스 트레이닝 분야를 결합
 ---
 
 ## 🚀 Getting Started
-
-***Dependencies***
-
-Please ensure you have the following dependencies installed on your system:
-
-`- ℹ️ Dependency 1`
-
-`- ℹ️ Dependency 2`
-
-`- ℹ️ ...`
+*You must have Python & Node.js installed in your environment
 
 ### 🔧 Installation
 
@@ -318,6 +289,7 @@ This project is protected under the [MIT License](https://choosealicense.com/lic
 
 [**Return**](#Top)
 
+[MS_AI_3기_3팀_발표자료.pdf](https://github.com/msai-cereal/ai_fitness_trainer_v2/files/13678674/MS_AI_3._3._.pdf)
 
 ---
 
