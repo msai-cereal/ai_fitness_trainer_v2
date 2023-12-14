@@ -204,7 +204,7 @@ git clone https://github.com/msai-cereal/ai_fitness_trainer_v3
 
 2. Change to the project directory:
 ```sh
-cd AI_Fitness_Trainer
+cd ai_fitness_trainer_v3
 ```
 
 3. Install the dependencies:
