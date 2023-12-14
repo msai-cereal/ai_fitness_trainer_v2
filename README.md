@@ -38,7 +38,7 @@ Expanding on a previous project, this application utilizes FastAPI and React to 
 - [🚀 Getting Started](#-getting-started)
     - [🔧 Installation](#-installation)
     - [🤖 Running the app](#-running-the-app)
-- [🛣 Roadmap](#-roadmap)
+- [🛣 Roadmap](#-project-roadmap)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 - [👏 Acknowledgments](#-acknowledgments)
