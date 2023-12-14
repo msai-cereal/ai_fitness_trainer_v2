@@ -227,7 +227,7 @@ cd frontend
 npm install
 ```
 
-### 🤖 Running ai_fitness_trainer_v3
+### 🤖 Running the app
 백엔드 설정
 ```sh
 # 백엔드 폴더로 이동
