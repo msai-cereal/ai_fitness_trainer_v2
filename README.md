@@ -205,23 +205,45 @@ git clone https://github.com/msai-cereal/ai_fitness_trainer_v3
 
 2. Change to the project directory:
 ```sh
-cd ai_fitness_trainer_v3
+cd AI_Fitness_Trainer
 ```
 
 3. Install the dependencies:
+백엔드 설정
 ```sh
+# 백엔드 폴더로 이동
+cd backend
+
+# 필요한 Python 라이브러리 설치
+pip install -r requirements.txt
+```
+
+프론트엔드 설정
+```sh
+# 프론트엔드 폴더로 이동
+cd frontend
+
+# 필요한 npm 패키지 설치
 npm install
 ```
 
 ### 🤖 Running ai_fitness_trainer_v3
-
+백엔드 설정
 ```sh
-node app.js
+# 백엔드 폴더로 이동
+cd backend
+
+# 백엔드 서버 실행
+uvicorn main:app --reload
 ```
 
-### 🧪 Tests
+프론트엔드 설정
 ```sh
-npm test
+# 프론트엔드 폴더로 이동
+cd frontend
+
+# 개발 서버 실행
+npm run dev
 ```
 
 ---
@@ -229,9 +251,10 @@ npm test
 
 ## 🛣 Project Roadmap
 
-> - [X] `ℹ️  Task 1: Implement X`
-> - [ ] `ℹ️  Task 2: Implement Y`
-> - [ ] `ℹ️ ...`
+> - [X] `ℹ️  Task 1: YOLOv8 파인튜닝`
+> - [X] `ℹ️  Task 2: React 기능 개발`
+> - [X] `ℹ️  Task 3: FastAPI 백엔드 개발`
+> - [X] `ℹ️  Task 2: Buildship을 활용한 TTS 피드백 구현`
 
 
 ---
