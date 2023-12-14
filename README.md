@@ -1,23 +1,22 @@
 <div align="center">
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" width="100" />
-<br>AI_FITNESS_TRAINER_V3</h1>
-<h3>◦ Shaping Your Future with AI Fitness Trainer V3!</h3>
-<h3>◦ Developed with the software and tools below.</h3>
-
+<br>AI Fitness Trainer</h1>
+<h3>실시간 자세 교정 AI 트레이너</h3>
+<h3>MS AI SCHOOL </h3>
+Made with ❤️ by Team Cereal
+    
 <p align="center">
 <img src="https://img.shields.io/badge/Chart.js-FF6384.svg?style=flat&logo=chartdotjs&logoColor=white" alt="Chart.js" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=JavaScript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=HTML5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/PostCSS-DD3A0A.svg?style=flat&logo=PostCSS&logoColor=white" alt="PostCSS" />
-<img src="https://img.shields.io/badge/Autoprefixer-DD3735.svg?style=flat&logo=Autoprefixer&logoColor=white" alt="Autoprefixer" />
 <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=flat&logo=Vite&logoColor=white" alt="Vite" />
 
 <img src="https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=React&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/ESLint-4B32C3.svg?style=flat&logo=ESLint&logoColor=white" alt="ESLint" />
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/FastAPI-009688.svg?style=flat&logo=FastAPI&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/JSON-000000.svg?style=flat&logo=JSON&logoColor=white" alt="JSON" />
+
 </p>
 <img src="https://img.shields.io/github/license/msai-cereal/ai_fitness_trainer_v3?style=flat&color=5D6D7E" alt="GitHub license" />
 <img src="https://img.shields.io/github/last-commit/msai-cereal/ai_fitness_trainer_v3?style=flat&color=5D6D7E" alt="git-last-commit" />
@@ -47,7 +46,7 @@
 
 ## 📍 Overview
 
-AI Fitness Trainer v3 is a proactive application that combines the fields of AI and fitness training to provide real-time user-specific exercise feedback. The application frontend, crafted in React, features accessible user interfaces and features such as routes, and overall design is handled through files like TailwindCSS. The backend, built in Python, deploys a YOLO model and utility scripts to evaluate exercise forms, count the reps, and provide real-time feedback through WebSocket. The application optimizes better performance, fitness form correction, and tailored feedback, enhancing the user's workout experience.
+AI 피트니스 트레이너는 AI와 피트니스 트레이닝 분야를 결합하여 실시간 사용자별 운동 피드백을 제공하는 멀티모달 AI 웹 애플리케이션입니다. React로 제작된 애플리케이션 프론트엔드는 접근 가능한 사용자 인터페이스와 경로와 같은 기능을 제공하며, 전반적인 디자인은 TailwindCSS와 같은 파일을 통해 처리됩니다. Python으로 구축된 백엔드는 운동 형태를 평가하고, 반복 횟수를 계산하며, WebSocket을 통해 실시간 피드백을 제공하는 YOLO 모델과 유틸리티 스크립트를 배포합니다. 이 애플리케이션은 실시간으로 운동 자세 교정 및 맞춤형 피드백을 통해 사용자의 운동 경험을 향상시킵니다.
 
 ---
 
