@@ -1,8 +1,6 @@
 <div align="center">
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" width="100" />
-    
-![Logo](./frontend/public/logo512.png)
+<img src="./frontend/public/logo512.png" width="100" />
 
 <br>AI Fitness Trainer</h1>
 <h3>실시간 자세 교정 AI 트레이너</h3>
