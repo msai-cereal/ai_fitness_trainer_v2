@@ -9,9 +9,6 @@ Expanding on a previous project, this application utilizes FastAPI and React to 
 
 
 이전 프로젝트에서 확장된 이 애플리케이션은 MS AI SCHOOL의 AI 프로젝트 일환으로 FastAPI와 React를 활용하여 운동 자세 평가를 위한 웹 기반 솔루션을 만들었습니다. OpenAI의 GPT와 TTS를 사용하여 Buildship을 통해 오디오 피드백을 제공했습니다. 개인화된 운동 가이드를 제공하여 사용자가 웹 상호작용을 통해 편리하게 혼자서도 운동 자세를 개선할 수 있도록 돕습니다. 
-
-<h3> </h3>
-
     
 <p align="center">
 <img src="https://img.shields.io/badge/Chart.js-FF6384.svg?style=flat&logo=chartdotjs&logoColor=white" alt="Chart.js" />
@@ -50,8 +47,11 @@ Expanding on a previous project, this application utilizes FastAPI and React to 
 
 
 ## 📍 Overview
-![sample](./frontend/public/sample.gif)
+### Demo
+[![sample](./frontend/public/sample.gif)](https://www.youtube.com/watch?v=BQNNPqTORNw)
 
+### PPT
+[MS_AI_3기_3팀_발표자료.pdf](https://github.com/msai-cereal/ai_fitness_trainer_v2/files/13678674/MS_AI_3._3._.pdf)
 AI 피트니스 트레이너는 AI와 피트니스 트레이닝 분야를 결합하여 실시간 사용자별 운동 피드백을 제공하는 멀티모달 AI 웹 애플리케이션입니다. React로 제작된 애플리케이션 프론트엔드는 사용자 친화적인 인터페이스를 제공하고 Python으로 구축된 백엔드는 운동 형태를 평가하고, 반복 횟수를 계산하며, WebSocket을 통해 실시간 피드백을 제공하는 YOLO 모델과 유틸리티 스크립트를 배포합니다. 이 애플리케이션은 실시간으로 운동 자세 교정 및 맞춤형 피드백을 통해 사용자의 운동 경험을 향상시키기 위해 시험적으로 개발되었습니다. 
 
 ---
@@ -289,7 +289,6 @@ This project is protected under the [MIT License](https://choosealicense.com/lic
 
 [**Return**](#Top)
 
-[MS_AI_3기_3팀_발표자료.pdf](https://github.com/msai-cereal/ai_fitness_trainer_v2/files/13678674/MS_AI_3._3._.pdf)
 
 ---
 
