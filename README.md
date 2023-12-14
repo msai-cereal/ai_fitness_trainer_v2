@@ -1,11 +1,15 @@
 <div align="center">
 <h1 align="center">
 <img src="./frontend/public/logo512.png" width="100" />
-
 <br>AI Fitness Trainer</h1>
+
+Expanding on a previous project, this application utilizes FastAPI and React to create a web-based solution for exercise posture assessment. We used OpenAI's GPT and TTS to provide audio feedback using Buildship. This user-friendly platform offers personalized exercise guidance, enabling users to improve their workout postures and techniques conveniently through web interaction. 
+
 <h3>실시간 자세 교정 AI 트레이너</h3>
 
-Expanding on a previous project, this application utilizes FastAPI and React to create a web-based solution for exercise posture assessment and conditioning. It incorporates a large language model (LLM) for intelligent analysis of users' workout postures and provides AI-generated text-to-speech (TTS) feedback. This user-friendly platform offers personalized exercise guidance, enabling users to improve their workout postures and techniques conveniently through web interaction. It's an innovative blend of AI and web technologies, aiming to enhance the fitness experience with accessible and interactive tools.
+
+
+이전 프로젝트에서 확장된 이 애플리케이션은 FastAPI와 React를 활용하여 운동 자세 평가를 위한 웹 기반 솔루션을 만들었습니다. OpenAI의 GPT와 TTS를 사용하여 Buildship을 통해 오디오 피드백을 제공했습니다. 개인화된 운동 가이드를 제공하여 사용자가 웹 상호작용을 통해 편리하게 혼자서도 운동 자세를 개선할 수 있도록 돕습니다. 
 
 <h3>MS AI SCHOOL </h3>
 
