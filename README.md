@@ -252,9 +252,9 @@ npm run dev
 ## 🛣 Project Roadmap
 
 > - [X] `ℹ️  Task 1: YOLOv8 파인튜닝`
-> - [X] `ℹ️  Task 2: React 기능 개발`
+> - [X] `ℹ️  Task 2: React UI + 기능 개발`
 > - [X] `ℹ️  Task 3: FastAPI 백엔드 개발`
-> - [X] `ℹ️  Task 2: Buildship을 활용한 TTS 피드백 구현`
+> - [X] `ℹ️  Task 4: Buildship을 활용한 TTS 피드백 구현`
 
 
 ---
