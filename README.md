@@ -6,6 +6,7 @@
 <h3>실시간 자세 교정 AI 트레이너</h3>
 
 Expanding on a previous project, this application utilizes FastAPI and React to create a web-based solution for exercise posture assessment and conditioning. It incorporates a large language model (LLM) for intelligent analysis of users' workout postures and provides AI-generated text-to-speech (TTS) feedback. This user-friendly platform offers personalized exercise guidance, enabling users to improve their workout postures and techniques conveniently through web interaction. It's an innovative blend of AI and web technologies, aiming to enhance the fitness experience with accessible and interactive tools.
+
 <h3>MS AI SCHOOL </h3>
 
     
